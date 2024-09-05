@@ -1,0 +1,15 @@
+how to solve a problem?
+1. understand
+2. input
+3. solution
+4. code
+
+flowchart = diagram of chart
+components:
+            start/end: oval
+            i/p or o/p : parallelogram
+            process: rectangle
+            decision: kite
+            arrows
+
+pseudo-code: general logic of solution
