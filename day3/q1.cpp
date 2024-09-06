@@ -2,6 +2,7 @@
 using namespace std;
 int main(){
     //write your code here
+    //to check if given char is lowercase or uppercase
     char ch;
     cin>>ch;
     // if(ch>='a' && ch<='z'){

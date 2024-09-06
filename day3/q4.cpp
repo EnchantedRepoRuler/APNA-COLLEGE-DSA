@@ -2,14 +2,16 @@
 using namespace std;
 int main(){
     //write your code here
-    //sum of n numbers
+    //sum of odd numbers
     int n;
     cout<<"Enter the value of n: ";
     cin>>n;
-    int count=0;
-    for(int i = 1;i <= n; i++){
-        count = count+i;
+    int count = 0;
+    for(int i =0; i<=n; i++){
+        if(i%2!=0){
+            count += i;
+        }
     }
-     cout<<count<<endl;
+    cout<<count<<endl;
     return 0;
 }
