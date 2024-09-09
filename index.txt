@@ -2,3 +2,4 @@ day1 === flowchart & pseudocode
 day2 === variables and datatypes
 day3 === conditional statements and loops
 day4 === patterns
+day5 === functions

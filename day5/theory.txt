@@ -1,0 +1,6 @@
+fundction syntax:
+
+
+    returnType printHello(){
+        cout<<"Hello";
+    }
