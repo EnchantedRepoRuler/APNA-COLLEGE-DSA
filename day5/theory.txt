@@ -4,3 +4,20 @@ fundction syntax:
     returnType printHello(){
         cout<<"Hello";
     }
+
+    #include<bits/stdc++.h>
+using namespace std;
+int hello(){
+    // returns the value
+    return "hello";
+}
+void emp(){
+    cout<<"does not return anything";
+}
+int main(){
+    //write your code here
+    //function call
+    hello();
+    emp();
+    return 0;
+}
