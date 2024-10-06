@@ -1,0 +1,13 @@
+math mein abhi tak decimal number system(0-9 ) dekha hai lekin computer sirf 0 aur 1 hota hai jis wajah use hum binary kehte hai
+
+
+code(decimal to binary)
+ans = 0 //binary number
+pow = 1 //10^0, 10^1.....
+while(decnum>0){
+    rem = decnum%2
+    decnum = decnum/2
+    ans+=(rem*pow)
+    pow = pow * 10
+}
+return ans
