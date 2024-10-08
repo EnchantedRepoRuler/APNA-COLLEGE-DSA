@@ -1,0 +1,25 @@
+scope: place where we can access and use our variable
+|
+|
+|--->local==>variable declared under particular bolck of code like if-else, functions, etc.
+|
+|
+|
+|----->global===>variable declared for the entire file of the code.
+
+data type modifiers ----> change the meaning of data types
+
+
+1.long
+
+
+2.short
+
+
+3.long long
+
+
+4.signed
+
+
+5.unsigned
