@@ -8,6 +8,7 @@ int reverseArray(int arr[], int size){
             i++;
             j--;
         }
+        return 0;
 }
 int main(){
     //write your code here
