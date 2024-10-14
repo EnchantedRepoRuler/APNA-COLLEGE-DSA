@@ -13,7 +13,7 @@ void printUnique(int arr[], int n) {
     // Print elements that appear exactly once
     for (int i = 0; i < n; i++) {
         if (freq[arr[i]] == 1) {
-            cout << arr[i] << " ";
+            cout << arr[i] << " ";//random commit
         }
     }
     cout << endl;
